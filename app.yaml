@@ -1,3 +1,5 @@
 runtime: nodejs20
 service: default
 
+entrypoint: node index.js
+
